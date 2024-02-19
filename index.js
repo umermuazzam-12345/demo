@@ -1,2 +1,6 @@
 console.log("javascript");
-console.log("hello world");
+
+function hello() {
+  console.log("hello world");
+}
+hello();
