@@ -1,5 +1,3 @@
 # demo
 
-this is just for practice git hub
-<br>
-author Umer
+this is just for practice updated by user interface umer muazzam
